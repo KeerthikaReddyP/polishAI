@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <hgroup>
-        <h1>Hello</h1>
+        <h1 className="bg-amber-600 text-3xl font-bold">Hello</h1>
       </hgroup>
     </>
   )
